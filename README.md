@@ -16,7 +16,7 @@ This repository is designed for students, beginners, and enthusiasts who want to
 
 ---
 
-🌱 Who is this for?
+## 🌱 Who is this for?
 
 -Students learning ML for the first time
 -Developers who want reference implementations
@@ -35,7 +35,7 @@ bash
 
 ---
 
-Contributions are welcome! Feel free to:
+## 🤝Contributions are welcome! Feel free to:
 
 -Fix bugs
 -Add new algorithms
