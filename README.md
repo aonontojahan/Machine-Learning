@@ -30,7 +30,6 @@ Clone the repository:
 
 bash
    git clone https://github.com/your-username/machine-learning.git
-   pip install -r requirements.txt 
    
 ---
 
