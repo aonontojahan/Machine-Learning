@@ -20,7 +20,7 @@ This repository is designed for students, beginners, and enthusiasts who want to
 
 -Students learning ML for the first time.
 -Developers who want reference implementations.
--Enthusiasts exploring ML concepts
+-Enthusiasts exploring ML concepts.
 ---
 
 ---
