@@ -37,6 +37,6 @@ bash
 
 ## 🤝Contributions are welcome! Feel free to:
 
--Fix bugs & Add new algorithms & Improve documentation
+-Fix bugs & Add new algorithms & Improve documentation.
 
 ---
