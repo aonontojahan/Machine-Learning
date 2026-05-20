@@ -8,7 +8,7 @@ This repository is designed for students, beginners, and enthusiasts who want to
 ## 🚀 Features
 - Beginner-friendly explanations and clean code
 - Covers fundamental ML algorithms (Linear Regression, Logistic Regression, Decision Trees, etc.)  
-- Step-by-step implementations with comments.
+- Step-by-step implementations with comments
 - Practical use cases and mini-projects.
 - Organized folder structure for easy navigation.
 
